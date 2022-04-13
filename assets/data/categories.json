@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "62488a553da3b840c2622e59",
+    "name": "laptop",
+    "color": "#23C4ED",
+    "icon": "laptop",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "62488b713da3b840c2622e5d",
+    "name": "footwear",
+    "color": "#02B290",
+    "icon": "shoe-prints",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "62488ca73da3b840c2622e60",
+    "name": "pants",
+    "color": "#E07C24",
+    "icon": "user",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "62488d0a3da3b840c2622e63",
+    "name": "tops",
+    "color": "#CAD5E2",
+    "icon": "tshirt",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "62488d613da3b840c2622e66",
+    "name": "camera",
+    "color": "#758283",
+    "icon": "camera",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "62488de73da3b840c2622e69",
+    "name": "smart phone",
+    "color": "#46B2E0",
+    "icon": "phone",
+    "user": "6247248c499e41185f55255d",
+    "createdAt": "2022-04-02T17:37:42.898Z",
+    "__v": 0
+  }
+]

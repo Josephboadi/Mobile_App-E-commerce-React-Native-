@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "6239f4ddd2529941dbaa139d",
+    "name": "Product1",
+    "description": "This is sample product1",
+    "price": 80,
+    "featured": false,
+    "ratings": 0,
+    "images": [
+      {
+        "public_id": "ahguxi89hovqxblrvnk1",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647965404/ahguxi89hovqxblrvnk1.png",
+        "_id": "6239f4ddd2529941dbaa139e"
+      },
+      {
+        "public_id": "gydwohawjflnd6jpqlsj",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647965405/gydwohawjflnd6jpqlsj.png",
+        "_id": "6239f4ddd2529941dbaa139f"
+      }
+    ],
+    "category": {
+      "image": {
+        "public_id": "avatars/okhlciugcleu7d5nlaah",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647962445/avatars/okhlciugcleu7d5nlaah.png"
+      },
+      "_id": "6239e94e5c79bcc1bb67ca0d",
+      "name": "health",
+      "color": "#444",
+      "icon": "icon-health",
+      "user": "6239936d59b7b2f8af3ca447",
+      "createdAt": "2022-03-22T14:59:20.124Z",
+      "__v": 0
+    },
+    "stock": 97,
+    "numOfReviews": 0,
+    "company": "Sony",
+    "user": "6239936d59b7b2f8af3ca447",
+    "createdAt": "2022-03-22T16:09:21.723Z",
+    "reviews": [],
+    "__v": 0
+  },
+  {
+    "_id": "6239fe6057da2b2750a792e6",
+    "name": "Product3",
+    "description": "This is sample product3",
+    "price": 70,
+    "featured": false,
+    "ratings": 0,
+    "images": [
+      {
+        "public_id": "zzetyjdn2uir9igrakzx",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647967838/zzetyjdn2uir9igrakzx.png",
+        "_id": "6239fe6057da2b2750a792e7"
+      },
+      {
+        "public_id": "r5iyw2fc71deudmx3len",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647967839/r5iyw2fc71deudmx3len.png",
+        "_id": "6239fe6057da2b2750a792e8"
+      }
+    ],
+    "category": {
+      "image": {
+        "public_id": "avatars/pjeg1im3mixicvhz37b1",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647961571/avatars/pjeg1im3mixicvhz37b1.png"
+      },
+      "_id": "6239e5e45c79bcc1bb67ca0a",
+      "name": "beauty",
+      "color": "#5555",
+      "icon": "icon-beauty",
+      "user": "6239936d59b7b2f8af3ca447",
+      "createdAt": "2022-03-22T14:59:20.124Z",
+      "__v": 0
+    },
+    "stock": 100,
+    "numOfReviews": 0,
+    "company": "Sony",
+    "user": "6239936d59b7b2f8af3ca447",
+    "createdAt": "2022-03-22T16:33:13.904Z",
+    "reviews": [],
+    "__v": 0
+  },
+  {
+    "_id": "623a29971f6d3640d7c56333",
+    "name": "Product4",
+    "description": "This is sample product4",
+    "price": 90,
+    "featured": false,
+    "ratings": 0,
+    "images": [
+      {
+        "public_id": "lyli1yscoyktm0c9nbbt",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647978903/lyli1yscoyktm0c9nbbt.png",
+        "_id": "623a29971f6d3640d7c56334"
+      },
+      {
+        "public_id": "pkyao6w9fhc4mcpdpviw",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647978904/pkyao6w9fhc4mcpdpviw.png",
+        "_id": "623a29971f6d3640d7c56335"
+      }
+    ],
+    "category": {
+      "image": {
+        "public_id": "avatars/okhlciugcleu7d5nlaah",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647962445/avatars/okhlciugcleu7d5nlaah.png"
+      },
+      "_id": "6239e94e5c79bcc1bb67ca0d",
+      "name": "health",
+      "color": "#444",
+      "icon": "icon-health",
+      "user": "6239936d59b7b2f8af3ca447",
+      "createdAt": "2022-03-22T14:59:20.124Z",
+      "__v": 0
+    },
+    "stock": 100,
+    "numOfReviews": 0,
+    "company": "Sony",
+    "user": "6239936d59b7b2f8af3ca447",
+    "createdAt": "2022-03-22T19:49:17.249Z",
+    "reviews": [],
+    "__v": 0
+  },
+  {
+    "_id": "623b09ba2eb1839a70e7f255",
+    "name": "product6",
+    "description": "This is sample product6",
+    "price": 800,
+    "featured": false,
+    "ratings": 0,
+    "images": [
+      {
+        "public_id": "bk5w8kcod4zw7mrax3br",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1648036283/bk5w8kcod4zw7mrax3br.jpg",
+        "_id": "623b09ba2eb1839a70e7f256"
+      },
+      {
+        "public_id": "k43nlfqgwi02gxmxuzrp",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1648036284/k43nlfqgwi02gxmxuzrp.jpg",
+        "_id": "623b09ba2eb1839a70e7f257"
+      }
+    ],
+    "category": {
+      "image": {
+        "public_id": "avatars/okhlciugcleu7d5nlaah",
+        "url": "https://res.cloudinary.com/dblprzex8/image/upload/v1647962445/avatars/okhlciugcleu7d5nlaah.png"
+      },
+      "_id": "6239e94e5c79bcc1bb67ca0d",
+      "name": "health",
+      "color": "#444",
+      "icon": "icon-health",
+      "user": "6239936d59b7b2f8af3ca447",
+      "createdAt": "2022-03-22T14:59:20.124Z",
+      "__v": 0
+    },
+    "stock": 50,
+    "numOfReviews": 0,
+    "company": "Dell",
+    "user": "6239936d59b7b2f8af3ca447",
+    "createdAt": "2022-03-23T11:51:06.441Z",
+    "reviews": [],
+    "__v": 0
+  }
+]
